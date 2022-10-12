@@ -1,0 +1,45 @@
+@media only screen and (min-width: 600px) {
+  #content {
+    display: flex;
+  }
+}
+#left {
+  background-color: #a3b18a;
+  margin: 5px;
+  padding: 4px;
+}
+
+#right {
+  background-color: #3a5a40;
+  margin: 5px;
+  padding: 4px;
+}
+#right ul {
+  list-style: none;
+  font-size: 120%;
+  display: block;
+}
+
+#rest {
+  background-color: #344e41;
+  margin: 5px;
+  padding: 4px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #dad7cd;
+}
+
+#h2 {
+  color: #588157;
+}
+
+body {
+  background-color: #dad7cd;
+  font: 100% Helvetica, sans-serif;
+  text-align: center;
+}/*# sourceMappingURL=main.css.map */
